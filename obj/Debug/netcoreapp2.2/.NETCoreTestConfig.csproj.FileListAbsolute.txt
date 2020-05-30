@@ -1,0 +1,14 @@
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.csprojAssemblyReference.cache
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.csproj.CoreCompileInputs.cache
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.RazorAssemblyInfo.cache
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.RazorAssemblyInfo.cs
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.AssemblyInfoInputs.cache
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.AssemblyInfo.cs
+C:\Users\HOME\.NETCoreTestConfig\bin\Debug\netcoreapp2.2\.NETCoreTestConfig.deps.json
+C:\Users\HOME\.NETCoreTestConfig\bin\Debug\netcoreapp2.2\.NETCoreTestConfig.runtimeconfig.json
+C:\Users\HOME\.NETCoreTestConfig\bin\Debug\netcoreapp2.2\.NETCoreTestConfig.runtimeconfig.dev.json
+C:\Users\HOME\.NETCoreTestConfig\bin\Debug\netcoreapp2.2\.NETCoreTestConfig.dll
+C:\Users\HOME\.NETCoreTestConfig\bin\Debug\netcoreapp2.2\.NETCoreTestConfig.pdb
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.RazorTargetAssemblyInfo.cache
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.dll
+C:\Users\HOME\.NETCoreTestConfig\obj\Debug\netcoreapp2.2\.NETCoreTestConfig.pdb
